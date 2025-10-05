@@ -23,10 +23,11 @@ h1 {
 </tr>
 <tr>
 <td width="20%" valign="top" class="panel">
-Hyperlinks:<br>
-<a href="history.html">Company History</a><br>
-<a href="products.html">Products</a><br>
-<a href="services.html">Services</a>
+Navigation:<br>
+<a href="index.html">Home</a><br>
+External link: <a href="https://www.amazon.com/books" target="_blank">Amazon Books</a><br>
+Contact me: <a href="mailto:fake@email.com">Send Email</a><br>
+Download our brochure: <a href="brochure.pdf" download>Download Brochure</a>
 </td>
 <td valign="top">
 
@@ -35,13 +36,7 @@ Hyperlinks:<br>
 <p><b>Publishing dreams come true</b> with Logos. <u>Our team handles everything</u> from editing to printing. <i>Authors love the results</i> every time.</p>
 
 <p style="color:blue; font-size:12pt;">Discover how easy it is to share your story with the world.</p>
-<p style="color:green; font-size:14pt; font-family:Arial;">Join thousands of happy writers today.</p>
-
-<p>External link: <a href="https://www.amazon.com/books" target="_blank">Amazon Books</a></p>
-
-<p>Contact me: <a href="mailto:fake@email.com">Send Email</a></p>
-
-<p>Download our brochure: <a href="brochure.pdf" download>Download Brochure</a></p>
+<p style="color:black; font-size:14pt; font-family:Arial;">Join thousands of happy writers today.</p>
 
 <h2>Customer Stories</h2>
 
