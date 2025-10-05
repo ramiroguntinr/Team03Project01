@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>Customer Success</title>
+<style>
+body {
+    background-color: #F2E5B3;
+    font-family: Georgia;
+}
+h1 {
+    font-family: "Brush Script MT";
+    color: red;
+}
+.panel {
+    background-color: #FFB6C1;
+}
+</style>
+</head>
+<body>
+
+<table border="1" width="100%">
+<tr>
+<td colspan="2"><h1>Customer Success</h1></td>
+</tr>
+<tr>
+<td width="20%" valign="top" class="panel">
+Navigation:<br>
+<a href="index.html">Home</a><br>
+External link: <a href="https://www.amazon.com/books" target="_blank">Amazon Books</a><br>
+Contact me: <a href="mailto:fake@email.com">Send Email</a><br>
+Download our brochure: <a href="brochure.pdf" download>Download Brochure</a>
+</td>
+<td valign="top">
+
+<img src="https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Bookshelf Image" width="300" height="200">
+
+<p><b>Publishing dreams come true</b> with Logos. <u>Our team handles everything</u> from editing to printing. <i>Authors love the results</i> every time.</p>
+
+<p style="color:blue; font-size:12pt;">Discover how easy it is to share your story with the world.</p>
+<p style="color:black; font-size:14pt; font-family:Arial;">Join thousands of happy writers today.</p>
+
+<h2>Customer Stories</h2>
+
+<p style="font-size:16pt;">Story 1: "Oh wow, Logos made my silly story about cats into a real book! Now everyone loves it!" - Jane Smith</p>
+
+<p style="font-size:14pt; color:purple;">Story 2: "Thanks to Logos, my cookbook is flying off the shelves. Who knew recipes for toast could be so popular?" - Mike Johnson</p>
+
+<p style="font-size:16pt;">Story 3: "Logos turned my grandma's old poems into a beautiful collection. Family reunions are book signings now!" - Sarah Lee</p>
+
+<ol>
+<li>Submit your manuscript.</li>
+<li>We edit it.</li>
+<li>Publish and celebrate!</li>
+</ol>
+
+<ul>
+<li>"Best publishing ever!"</li>
+<li>"Super easy and fun."</li>
+<li>"My book is a hit!"</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<p>Last modified: <script>document.write(document.lastModified);</script></p>
+
+</body>
+</html>
